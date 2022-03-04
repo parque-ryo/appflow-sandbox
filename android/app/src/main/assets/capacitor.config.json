@@ -1,0 +1,6 @@
+{
+	"appId": "io.parque.ro.appflow.sandbox",
+	"appName": "appflow-sandbox",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
