@@ -343,7 +343,7 @@
     "tslib" "^2.1.0"
     "xml2js" "^0.4.23"
 
-"@capacitor/core@^3.4.0", "@capacitor/core@^3.4.2":
+"@capacitor/core@^3.0.0", "@capacitor/core@^3.4.0", "@capacitor/core@^3.4.2":
   "integrity" "sha512-+RtdxI0KFQWFgiKcmxNduRti3iaPq1y/zB9jubZrCTq+xTDXtI/4ZciX1jRFZdPc36NgRTWUMCiAVoMcoKeL4w=="
   "resolved" "https://registry.npmjs.org/@capacitor/core/-/core-3.4.2.tgz"
   "version" "3.4.2"
@@ -354,6 +354,11 @@
   "integrity" "sha512-ouuXY5CcQJmXADvfs0C3GjWK4atenZViiRmh061BypJUYDwVypZxJDnh/k00vP6jwJakj4Mcu7REfTm9cGAviw=="
   "resolved" "https://registry.npmjs.org/@capacitor/ios/-/ios-3.4.2.tgz"
   "version" "3.4.2"
+
+"@capacitor/local-notifications@^1.1.0":
+  "integrity" "sha512-l6S9rBylxGPq/U+xpJzZcOL4l2s8I2Igq7uDTidR4imIxxX3bLRz9nDSQREWsbQkFx7ALFm/5Y8PJGz2C6qKPw=="
+  "resolved" "https://registry.npmjs.org/@capacitor/local-notifications/-/local-notifications-1.1.0.tgz"
+  "version" "1.1.0"
 
 "@cush/relative@^1.0.0":
   "integrity" "sha512-RpfLEtTlyIxeNPGKcokS+p3BZII/Q3bYxryFRglh5H3A3T8q9fsLYm72VYAMEOOIBLEa8o93kFLiBDUWKrwXZA=="
