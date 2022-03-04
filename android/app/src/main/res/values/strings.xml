@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">appflow-sandbox</string>
+    <string name="title_activity_main">appflow-sandbox</string>
+    <string name="package_name">io.parque.ro.appflow.sandbox</string>
+    <string name="custom_url_scheme">io.parque.ro.appflow.sandbox</string>
+</resources>
