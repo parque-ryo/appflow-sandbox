@@ -1,4 +1,4 @@
-package io.parque.ro.appflow.sandbox;
+package io.parque.testapp.eb03f037;
 
 import com.getcapacitor.BridgeActivity;
 

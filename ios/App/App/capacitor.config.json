@@ -1,6 +1,6 @@
 {
-	"appId": "io.parque.ro.appflow.sandbox",
-	"appName": "appflow-sandbox",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "io.parque.testapp.eb03f037",
+  "appName": "appflow-sandbox",
+  "webDir": "dist",
+  "bundledWebRuntime": false
 }

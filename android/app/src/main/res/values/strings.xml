@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">appflow-sandbox</string>
     <string name="title_activity_main">appflow-sandbox</string>
-    <string name="package_name">io.parque.ro.appflow.sandbox</string>
-    <string name="custom_url_scheme">io.parque.ro.appflow.sandbox</string>
+    <string name="package_name">io.parque.testapp.eb03f037</string>
+    <string name="custom_url_scheme">io.parque.testapp.eb03f037</string>
 </resources>
